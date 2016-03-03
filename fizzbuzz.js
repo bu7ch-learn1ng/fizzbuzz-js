@@ -13,6 +13,4 @@ var fizzbuzz = function ()  {
   }
 }
 
-
-
 module.exports = fizzbuzz;
