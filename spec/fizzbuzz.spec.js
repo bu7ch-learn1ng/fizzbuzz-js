@@ -1,4 +1,4 @@
-var fizzbuzz = require("../lib/fizzbuzz")();
+var fizzbuzz = require("../lib/fizzbuzz.js")();
 
 describe('fizzbuzz-js-kata', function(){
 
