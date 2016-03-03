@@ -1,5 +1,6 @@
 var fizzbuzz = function ()  {
 // ici votre code =)
+
   var i = prompt('Ecris un chiffre');
   if(i % 3 == 0 && i % 5 != 0){
     alert('Fizz');
